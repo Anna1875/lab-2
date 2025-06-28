@@ -141,7 +141,7 @@ permalink: /theory/applications/
 У поліграфії обидва типи графіки працюють разом для створення складних макетів та забезпечення високої якості друку.
 
 <div class="image-container">
-  <img src="{{ '/lab-2/assets/images/image14.jpeg' | relative_url }}" alt="Застосування графіки в поліграфії" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image14.png' | relative_url }}" alt="Застосування графіки в поліграфії" loading="lazy">
   <div class="image-caption">Поєднання растрових фотографій та векторних елементів у поліграфічному дизайні</div>
 </div>
 
