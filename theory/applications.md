@@ -141,7 +141,7 @@ permalink: /theory/applications/
 У поліграфії обидва типи графіки працюють разом для створення складних макетів та забезпечення високої якості друку.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image14.jpeg' | relative_url }}" alt="Застосування графіки в поліграфії" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image14.jpeg' | relative_url }}" alt="Застосування графіки в поліграфії" loading="lazy">
   <div class="image-caption">Поєднання растрових фотографій та векторних елементів у поліграфічному дизайні</div>
 </div>
 
@@ -239,7 +239,7 @@ permalink: /theory/applications/
 У веб-розробці та цифрових медіа важливі оптимізація розміру файлів та адаптивність до різних пристроїв.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image15.png' | relative_url }}" alt="Графіка у веб-розробці" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image15.png' | relative_url }}" alt="Графіка у веб-розробці" loading="lazy">
   <div class="image-caption">Використання різних типів графіки у веб-дизайні та мобільних додатках</div>
 </div>
 
@@ -318,7 +318,7 @@ permalink: /theory/applications/
 У мультимедійних системах обидва типи графіки виконують різні функції для створення динамічного контенту.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image16.png' | relative_url }}" alt="Мультимедіа та анімація" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image16.png' | relative_url }}" alt="Мультимедіа та анімація" loading="lazy">
   <div class="image-caption">Застосування графіки в анімації, іграх та інтерактивних медіа</div>
 </div>
 
