@@ -23,7 +23,7 @@ permalink: /theory/comparison/
 Растрова та векторна графіка представляють два принципово різні способи зберігання зображень. Розуміння їх відмінностей є ключовим для правильного вибору типу графіки.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image11.png' | relative_url }}" alt="Порівняльна таблиця растрової та векторної графіки" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image11.png' | relative_url }}" alt="Порівняльна таблиця растрової та векторної графіки" loading="lazy">
   <div class="image-caption">Візуальне порівняння основних характеристик двох типів графіки</div>
 </div>
 
@@ -61,11 +61,11 @@ permalink: /theory/comparison/
 
 <div class="image-comparison">
   <div class="image-container">
-    <img src="{{ '/resources/images/image12.jpeg' | relative_url }}" alt="Порівняння масштабування растрової та векторної графіки" loading="lazy">
+    <img src="{{ '/lab-2/assets/images/image12.jpeg' | relative_url }}" alt="Порівняння масштабування растрової та векторної графіки" loading="lazy">
     <div class="image-caption">Ефект масштабування: растр vs вектор</div>
   </div>
   <div class="image-container">
-    <img src="{{ '/resources/images/image13.jpeg' | relative_url }}" alt="Детальне порівняння якості при збільшенні" loading="lazy">
+    <img src="{{ '/lab-2/assets/images/image13.jpeg' | relative_url }}" alt="Детальне порівняння якості при збільшенні" loading="lazy">
     <div class="image-caption">Деталізація при різних рівнях збільшення</div>
   </div>
 </div>
