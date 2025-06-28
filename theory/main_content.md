@@ -5,8 +5,6 @@ description: "Основи комп'ютерної графіки, типи гр
 permalink: /theory/main-content/
 ---
 
-<link rel="stylesheet" href="{{ '/styles/custom.css' | relative_url }}">
-
 # Поняття комп'ютерної графіки. Класифікація графічних зображень
 
 <div class="content-wrapper">
@@ -80,7 +78,7 @@ permalink: /theory/main-content/
 
 <div class="image-comparison">
   <div class="image-container">
-    <img src="{{ '/resources/images/image1.png' | relative_url }}" alt="Приклад растрової графіки - піксельна структура" loading="lazy">
+    <img src="resources/images/image1.png" alt="Приклад растрової графіки - піксельна структура" loading="lazy">
     <div class="image-caption">Растрова графіка: зображення з пікселів</div>
   </div>
   <div class="image-container">
