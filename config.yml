@@ -57,7 +57,7 @@ header_pages:
   - tests/basic-test.md
   - resources/glossary.md
 
-# Колекції (якщо потрібно)
+# Колекції (включаємо обробку папок)
 collections:
   theory:
     output: true
@@ -71,6 +71,13 @@ collections:
   resources:
     output: true
     permalink: /:collection/:name/
+
+# Папки для обробки (включаємо звичайні папки)
+include:
+  - theory
+  - practice
+  - tests
+  - resources
 
 # Налаштування SEO
 seo:
