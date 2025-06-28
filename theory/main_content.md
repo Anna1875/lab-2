@@ -245,17 +245,17 @@ description: "Основи комп'ютерної графіки, типи гр
       </div>
       <ul style="list-style: none; padding: 0;">
         <li style="margin-bottom: 0.5rem;">
-          <a href="raster-graphics.html" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="raster-graphics" class="btn btn-outline" style="width: 100%; text-align: left;">
             🖼️ Растрова графіка →
           </a>
         </li>
         <li style="margin-bottom: 0.5rem;">
-          <a href="vector-graphics.html" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="vector-graphics" class="btn btn-outline" style="width: 100%; text-align: left;">
             📐 Векторна графіка →
           </a>
         </li>
         <li style="margin-bottom: 0.5rem;">
-          <a href="comparison.html" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="comparison" class="btn btn-outline" style="width: 100%; text-align: left;">
             ⚖️ Порівняльний аналіз →
           </a>
         </li>
@@ -267,7 +267,7 @@ description: "Основи комп'ютерної графіки, типи гр
         <h3 class="card-title">🎯 Практика</h3>
       </div>
       <p>Перейдіть до практичних завдань для закріплення матеріалу:</p>
-      <a href="../practice/beginner-tasks.html" class="btn btn-primary">
+      <a href="../practice/beginner-tasks" class="btn btn-primary">
         Практичні завдання
       </a>
     </div>
