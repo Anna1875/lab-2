@@ -23,7 +23,7 @@ permalink: /theory/raster-graphics/
 Растрова графіка працює з прямокутною сіткою пікселів — найдрібніших точок, кожна з яких має свій колір. Уявіть аркуш в клітинку, де кожна клітинка зафарбована певним кольором. Коли ми дивимося на всю картинку з відстані, ці кольорові клітинки створюють цілісне зображення.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image5.png' | relative_url }}" alt="Піксельна структура растрового зображення" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image5.png' | relative_url }}" alt="Піксельна структура растрового зображення" loading="lazy">
   <div class="image-caption">Піксельна структура: кожен квадратик — це піксель з власним кольором</div>
 </div>
 
@@ -78,7 +78,7 @@ permalink: /theory/raster-graphics/
 Глибина кольору визначає, скільки різних кольорів може мати один піксель. Це залежить від кількості бітів, які використовуються для збереження інформації про колір.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image6.png' | relative_url }}" alt="Глибина кольору та стиснення зображень" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image6.png' | relative_url }}" alt="Глибина кольору та стиснення зображень" loading="lazy">
   <div class="image-caption">Вплив глибини кольору на якість зображення</div>
 </div>
 
@@ -165,7 +165,7 @@ permalink: /theory/raster-graphics/
 ## Популярні формати растрової графіки
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image7.png' | relative_url }}" alt="Основні формати растрової графіки" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image7.png' | relative_url }}" alt="Основні формати растрової графіки" loading="lazy">
   <div class="image-caption">Порівняння популярних форматів файлів</div>
 </div>
 
