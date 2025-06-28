@@ -2,6 +2,7 @@
 layout: default
 title: "Застосування растрової та векторної графіки у прикладному середовищі"
 description: "Практичне використання растрової та векторної графіки в дизайні, поліграфії, веб-розробці, мультимедіа та інших галузях"
+permalink: /theory/applications/
 ---
 
 <link rel="stylesheet" href="../styles/custom.css">
@@ -636,7 +637,7 @@ description: "Практичне використання растрової т�
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="comparison" class="btn btn-outline">
+      <a href="/theory/comparison/" class="btn btn-outline">
         Порівняльний аналіз
       </a>
     </div>
@@ -645,7 +646,7 @@ description: "Практичне використання растрової т�
       <div class="card-header">
         <h3 class="card-title">🏠 Повернутися</h3>
       </div>
-      <a href="../index" class="btn btn-secondary">
+      <a href="/" class="btn btn-secondary">
         На головну
       </a>
     </div>
