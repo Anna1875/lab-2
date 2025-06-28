@@ -22,7 +22,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Виключення з обробки
+# Включение файлов
+include:
+  - _pages
+  - theory
+  - practice  
+  - tests
+  - resources
+
+# Исключения из обработки
 exclude:
   - README.md
   - Gemfile
@@ -34,10 +42,6 @@ exclude:
   - vendor/ruby/
   - .git/
   - .gitignore
-
-# Включення файлів
-include:
-  - _pages
 
 # Налаштування Markdown
 kramdown:
@@ -57,27 +61,11 @@ header_pages:
   - tests/basic-test.md
   - resources/glossary.md
 
-# Колекції (включаємо обробку папок)
-collections:
-  theory:
-    output: true
-    permalink: /:collection/:name/
-  practice:
-    output: true
-    permalink: /:collection/:name/
-  tests:
-    output: true
-    permalink: /:collection/:name/
-  resources:
-    output: true
-    permalink: /:collection/:name/
-
-# Папки для обробки (включаємо звичайні папки)
-include:
-  - theory
-  - practice
-  - tests
-  - resources
+# УБИРАЮ COLLECTIONS - используем обычные pages
+# collections:
+#   theory:
+#     output: true
+#     permalink: /:collection/:name/
 
 # Налаштування SEO
 seo:
