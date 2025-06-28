@@ -78,11 +78,11 @@ permalink: /theory/main-content/
 
 <div class="image-comparison">
   <div class="image-container">
-    <img src="/lab-2/resources/images/image1.png" alt="Приклад растрової графіки - піксельна структура" loading="lazy">
+    <img src="/lab-2/assets/images/image1.png" alt="Приклад растрової графіки - піксельна структура" loading="lazy">
     <div class="image-caption">Растрова графіка: зображення з пікселів</div>
   </div>
   <div class="image-container">
-    <img src="/lab-2/resources/images/image2.png" alt="Приклад растрової графіки - цифрова фотографія" loading="lazy">
+    <img src="/assets/images/image2.png" alt="Приклад растрової графіки - цифрова фотографія" loading="lazy">
     <div class="image-caption">Цифрова фотографія - типовий приклад растрової графіки</div>
   </div>
 </div>
