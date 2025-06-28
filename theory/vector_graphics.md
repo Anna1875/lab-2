@@ -23,7 +23,7 @@ permalink: /theory/vector-graphics/
 Векторна графіка працює зовсім по-іншому, ніж растрова. Замість пікселів вона використовує **геометричні фігури** — точки, лінії, криві та багатокутники. Кожна фігура описується математично: координатами, розміром, кольором, товщиною ліній.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image8.png' | relative_url }}" alt="Криві Безьє та їх побудова" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image8.png' | relative_url }}" alt="Криві Безьє та їх побудова" loading="lazy">
   <div class="image-caption">Криві Безьє: основа для створення плавних контурів у векторній графіці</div>
 </div>
 
@@ -122,7 +122,7 @@ permalink: /theory/vector-graphics/
 Основний інструмент для створення гладких вигнутих ліній — це **крива Безьє**. Вона дозволяє створювати плавні контури та точно контролювати форму через переміщення спеціальних точок-вузлів.
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image9.png' | relative_url }}" alt="Приклади векторних об'єктів" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image9.png' | relative_url }}" alt="Приклади векторних об'єктів" loading="lazy">
   <div class="image-caption">Векторні об'єкти: від простих фігур до складних композицій</div>
 </div>
 
@@ -176,7 +176,7 @@ permalink: /theory/vector-graphics/
 ### 1. Масштабованість
 
 <div class="image-container">
-  <img src="{{ '/resources/images/image10.png' | relative_url }}" alt="Демонстрація масштабованості векторної графіки" loading="lazy">
+  <img src="{{ '/lab-2/assets/images/image10.png' | relative_url }}" alt="Демонстрація масштабованості векторної графіки" loading="lazy">
   <div class="image-caption">Векторна графіка зберігає якість при будь-якому масштабуванні</div>
 </div>
 
