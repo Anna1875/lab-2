@@ -2,9 +2,10 @@
 layout: default
 title: "Поняття комп'ютерної графіки. Класифікація графічних зображень"
 description: "Основи комп'ютерної графіки, типи графічних зображень, класифікація растрової та векторної графіки"
+permalink: /theory/main-content/
 ---
 
-<link rel="stylesheet" href="../styles/custom.css">
+<link rel="stylesheet" href="{{ '/styles/custom.css' | relative_url }}">
 
 # Поняття комп'ютерної графіки. Класифікація графічних зображень
 
@@ -79,11 +80,11 @@ description: "Основи комп'ютерної графіки, типи гр
 
 <div class="image-comparison">
   <div class="image-container">
-    <img src="../resources/images/image1.png" alt="Приклад растрової графіки - піксельна структура" loading="lazy">
+    <img src="{{ '/resources/images/image1.png' | relative_url }}" alt="Приклад растрової графіки - піксельна структура" loading="lazy">
     <div class="image-caption">Растрова графіка: зображення з пікселів</div>
   </div>
   <div class="image-container">
-    <img src="../resources/images/image2.png" alt="Приклад растрової графіки - цифрова фотографія" loading="lazy">
+    <img src="{{ '/resources/images/image2.png' | relative_url }}" alt="Приклад растрової графіки - цифрова фотографія" loading="lazy">
     <div class="image-caption">Цифрова фотографія - типовий приклад растрової графіки</div>
   </div>
 </div>
@@ -100,11 +101,11 @@ description: "Основи комп'ютерної графіки, типи гр
 
 <div class="image-comparison">
   <div class="image-container">
-    <img src="../resources/images/image3.png" alt="Приклад векторної графіки - геометричні фігури" loading="lazy">
+    <img src="{{ '/resources/images/image3.png' | relative_url }}" alt="Приклад векторної графіки - геометричні фігури" loading="lazy">
     <div class="image-caption">Векторна графіка: геометричні примітиви</div>
   </div>
   <div class="image-container">
-    <img src="../resources/images/image4.png" alt="Приклад векторної графіки - логотип" loading="lazy">
+    <img src="{{ '/resources/images/image4.png' | relative_url }}" alt="Приклад векторної графіки - логотип" loading="lazy">
     <div class="image-caption">Векторний логотип зберігає якість при будь-якому розмірі</div>
   </div>
 </div>
@@ -245,17 +246,17 @@ description: "Основи комп'ютерної графіки, типи гр
       </div>
       <ul style="list-style: none; padding: 0;">
         <li style="margin-bottom: 0.5rem;">
-          <a href="raster-graphics" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="/theory/raster-graphics/" class="btn btn-outline" style="width: 100%; text-align: left;">
             🖼️ Растрова графіка →
           </a>
         </li>
         <li style="margin-bottom: 0.5rem;">
-          <a href="vector-graphics" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="/theory/vector-graphics/" class="btn btn-outline" style="width: 100%; text-align: left;">
             📐 Векторна графіка →
           </a>
         </li>
         <li style="margin-bottom: 0.5rem;">
-          <a href="comparison" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="/theory/comparison/" class="btn btn-outline" style="width: 100%; text-align: left;">
             ⚖️ Порівняльний аналіз →
           </a>
         </li>
@@ -274,7 +275,7 @@ description: "Основи комп'ютерної графіки, типи гр
   </div>
 </div>
 
-<script src="../scripts/interactive.js"></script>
+<script src="{{ '/scripts/interactive.js' | relative_url }}"></script>
 
 <script>
 // Правильні відповіді для тесту класифікації
