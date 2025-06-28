@@ -2,9 +2,10 @@
 layout: default
 title: "Векторна графіка: принципи побудови, властивості, формати"
 description: "Вивчення векторної графіки: геометричні примітиви, криві Безьє, масштабованість, формати SVG, AI, EPS"
+permalink: /theory/vector-graphics/
 ---
 
-<link rel="stylesheet" href="../styles/custom.css">
+<link rel="stylesheet" href="{{ '/styles/custom.css' | relative_url }}">
 
 # Векторна графіка: принципи побудови, властивості, формати
 
@@ -22,7 +23,7 @@ description: "Вивчення векторної графіки: геометр
 Векторна графіка працює зовсім по-іншому, ніж растрова. Замість пікселів вона використовує **геометричні фігури** — точки, лінії, криві та багатокутники. Кожна фігура описується математично: координатами, розміром, кольором, товщиною ліній.
 
 <div class="image-container">
-  <img src="../resources/images/image8.png" alt="Криві Безьє та їх побудова" loading="lazy">
+  <img src="{{ '/resources/images/image8.png' | relative_url }}" alt="Криві Безьє та їх побудова" loading="lazy">
   <div class="image-caption">Криві Безьє: основа для створення плавних контурів у векторній графіці</div>
 </div>
 
@@ -121,7 +122,7 @@ description: "Вивчення векторної графіки: геометр
 Основний інструмент для створення гладких вигнутих ліній — це **крива Безьє**. Вона дозволяє створювати плавні контури та точно контролювати форму через переміщення спеціальних точок-вузлів.
 
 <div class="image-container">
-  <img src="../resources/images/image9.png" alt="Приклади векторних об'єктів" loading="lazy">
+  <img src="{{ '/resources/images/image9.png' | relative_url }}" alt="Приклади векторних об'єктів" loading="lazy">
   <div class="image-caption">Векторні об'єкти: від простих фігур до складних композицій</div>
 </div>
 
@@ -175,7 +176,7 @@ description: "Вивчення векторної графіки: геометр
 ### 1. Масштабованість
 
 <div class="image-container">
-  <img src="../resources/images/image10.png" alt="Демонстрація масштабованості векторної графіки" loading="lazy">
+  <img src="{{ '/resources/images/image10.png' | relative_url }}" alt="Демонстрація масштабованості векторної графіки" loading="lazy">
   <div class="image-caption">Векторна графіка зберігає якість при будь-якому масштабуванні</div>
 </div>
 
@@ -445,7 +446,7 @@ description: "Вивчення векторної графіки: геометр
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="raster-graphics" class="btn btn-outline">
+      <a href="/theory/raster-graphics/" class="btn btn-outline">
         Растрова графіка
       </a>
     </div>
@@ -454,7 +455,7 @@ description: "Вивчення векторної графіки: геометр
       <div class="card-header">
         <h3 class="card-title">➡️ Наступний розділ</h3>
       </div>
-      <a href="comparison" class="btn btn-primary">
+      <a href="/theory/comparison/" class="btn btn-primary">
         Порівняльний аналіз
       </a>
     </div>
@@ -470,7 +471,7 @@ description: "Вивчення векторної графіки: геометр
   </div>
 </div>
 
-<script src="../scripts/interactive.js"></script>
+<script src="{{ '/scripts/interactive.js' | relative_url }}"></script>
 
 <script>
 // Правильні відповіді для тесту векторної графіки

@@ -2,9 +2,10 @@
 layout: default
 title: "Порівняльний аналіз растрової та векторної графіки"
 description: "Детальне порівняння растрової та векторної графіки за критеріями якості, розміру, редагування та застосування"
+permalink: /theory/comparison/
 ---
 
-<link rel="stylesheet" href="../styles/custom.css">
+<link rel="stylesheet" href="{{ '/styles/custom.css' | relative_url }}">
 
 # Порівняльний аналіз растрової та векторної графіки
 
@@ -22,7 +23,7 @@ description: "Детальне порівняння растрової та ве
 Растрова та векторна графіка представляють два принципово різні способи зберігання зображень. Розуміння їх відмінностей є ключовим для правильного вибору типу графіки.
 
 <div class="image-container">
-  <img src="../resources/images/image11.png" alt="Порівняльна таблиця растрової та векторної графіки" loading="lazy">
+  <img src="{{ '/resources/images/image11.png' | relative_url }}" alt="Порівняльна таблиця растрової та векторної графіки" loading="lazy">
   <div class="image-caption">Візуальне порівняння основних характеристик двох типів графіки</div>
 </div>
 
@@ -60,11 +61,11 @@ description: "Детальне порівняння растрової та ве
 
 <div class="image-comparison">
   <div class="image-container">
-    <img src="../resources/images/image12.jpeg" alt="Порівняння масштабування растрової та векторної графіки" loading="lazy">
+    <img src="{{ '/resources/images/image12.jpeg' | relative_url }}" alt="Порівняння масштабування растрової та векторної графіки" loading="lazy">
     <div class="image-caption">Ефект масштабування: растр vs вектор</div>
   </div>
   <div class="image-container">
-    <img src="../resources/images/image13.jpeg" alt="Детальне порівняння якості при збільшенні" loading="lazy">
+    <img src="{{ '/resources/images/image13.jpeg' | relative_url }}" alt="Детальне порівняння якості при збільшенні" loading="lazy">
     <div class="image-caption">Деталізація при різних рівнях збільшення</div>
   </div>
 </div>
@@ -415,7 +416,7 @@ description: "Детальне порівняння растрової та ве
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="vector-graphics" class="btn btn-outline">
+      <a href="/theory/vector-graphics/" class="btn btn-outline">
         Векторна графіка
       </a>
     </div>
@@ -424,7 +425,7 @@ description: "Детальне порівняння растрової та ве
       <div class="card-header">
         <h3 class="card-title">➡️ Наступний розділ</h3>
       </div>
-      <a href="applications" class="btn btn-primary">
+      <a href="/theory/applications/" class="btn btn-primary">
         Практичне застосування
       </a>
     </div>
@@ -440,7 +441,7 @@ description: "Детальне порівняння растрової та ве
   </div>
 </div>
 
-<script src="../scripts/interactive.js"></script>
+<script src="{{ '/scripts/interactive.js' | relative_url }}"></script>
 
 <script>
 // Правильні відповіді для тесту вибору графіки
