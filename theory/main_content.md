@@ -82,7 +82,7 @@ permalink: /theory/main-content/
     <div class="image-caption">Растрова графіка: зображення з пікселів</div>
   </div>
   <div class="image-container">
-    <img src="/assets/images/image2.png" alt="Приклад растрової графіки - цифрова фотографія" loading="lazy">
+    <img src="/lab-2/assets/images/image2.png" alt="Приклад растрової графіки - цифрова фотографія" loading="lazy">
     <div class="image-caption">Цифрова фотографія - типовий приклад растрової графіки</div>
   </div>
 </div>
@@ -99,11 +99,11 @@ permalink: /theory/main-content/
 
 <div class="image-comparison">
   <div class="image-container">
-    <img src="/lab-2/resources/images/image3.png" alt="Приклад векторної графіки - геометричні фігури" loading="lazy">
+    <img src="/lab-2/assets/images/image3.png" alt="Приклад векторної графіки - геометричні фігури" loading="lazy">
     <div class="image-caption">Векторна графіка: геометричні примітиви</div>
   </div>
   <div class="image-container">
-    <img src="/lab-2/resources/images/image4.png" alt="Приклад векторної графіки - логотип" loading="lazy">
+    <img src="/lab-2/assets/images/image4.png" alt="Приклад векторної графіки - логотип" loading="lazy">
     <div class="image-caption">Векторний логотип зберігає якість при будь-якому розмірі</div>
   </div>
 </div>
