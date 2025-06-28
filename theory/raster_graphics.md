@@ -399,7 +399,7 @@ description: "Детальне вивчення растрової графік�
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="main-content.html" class="btn btn-outline">
+      <a href="main-content" class="btn btn-outline">
         Основи комп'ютерної графіки
       </a>
     </div>
@@ -408,7 +408,7 @@ description: "Детальне вивчення растрової графік�
       <div class="card-header">
         <h3 class="card-title">➡️ Наступний розділ</h3>
       </div>
-      <a href="vector-graphics.html" class="btn btn-primary">
+      <a href="vector-graphics" class="btn btn-primary">
         Векторна графіка
       </a>
     </div>
@@ -417,7 +417,7 @@ description: "Детальне вивчення растрової графік�
       <div class="card-header">
         <h3 class="card-title">🎯 Практика</h3>
       </div>
-      <a href="../practice/beginner-tasks.html" class="btn btn-secondary">
+      <a href="../practice/beginner-tasks" class="btn btn-secondary">
         Практичні завдання
       </a>
     </div>
