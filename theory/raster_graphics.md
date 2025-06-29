@@ -400,7 +400,7 @@ permalink: /theory/raster-graphics/
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="/theory/main-content/" class="btn btn-outline">
+      <a href="/lab-2/theory/main-content/" class="btn btn-outline">
         Основи комп'ютерної графіки
       </a>
     </div>
@@ -409,7 +409,7 @@ permalink: /theory/raster-graphics/
       <div class="card-header">
         <h3 class="card-title">➡️ Наступний розділ</h3>
       </div>
-      <a href="/theory/vector-graphics/" class="btn btn-primary">
+      <a href="/lab-2/theory/vector-graphics/" class="btn btn-primary">
         Векторна графіка
       </a>
     </div>
@@ -418,7 +418,7 @@ permalink: /theory/raster-graphics/
       <div class="card-header">
         <h3 class="card-title">🎯 Практика</h3>
       </div>
-      <a href="../practice/beginner-tasks" class="btn btn-secondary">
+      <a href="/lab-2/practice/beginner-tasks" class="btn btn-secondary">
         Практичні завдання
       </a>
     </div>
