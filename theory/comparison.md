@@ -416,7 +416,7 @@ permalink: /theory/comparison/
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="/theory/vector-graphics/" class="btn btn-outline">
+      <a href="/lab-2/theory/vector-graphics/" class="btn btn-outline">
         Векторна графіка
       </a>
     </div>
@@ -425,7 +425,7 @@ permalink: /theory/comparison/
       <div class="card-header">
         <h3 class="card-title">➡️ Наступний розділ</h3>
       </div>
-      <a href="/theory/applications/" class="btn btn-primary">
+      <a href="/lab-2/theory/applications/" class="btn btn-primary">
         Практичне застосування
       </a>
     </div>
