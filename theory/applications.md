@@ -637,7 +637,7 @@ permalink: /theory/applications/
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="/theory/comparison/" class="btn btn-outline">
+      <a href="/lab-2/theory/comparison/" class="btn btn-outline">
         Порівняльний аналіз
       </a>
     </div>
@@ -655,7 +655,7 @@ permalink: /theory/applications/
       <div class="card-header">
         <h3 class="card-title">🎯 Практика</h3>
       </div>
-      <a href="../practice/advanced-tasks" class="btn btn-primary">
+      <a href="/lab-2/practice/advanced-tasks" class="btn btn-primary">
         Складні завдання
       </a>
     </div>
