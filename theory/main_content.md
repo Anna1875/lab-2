@@ -244,17 +244,17 @@ permalink: /theory/main-content/
       </div>
       <ul style="list-style: none; padding: 0;">
         <li style="margin-bottom: 0.5rem;">
-          <a href="/theory/raster-graphics/" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="/lab-2/theory/raster-graphics/" class="btn btn-outline" style="width: 100%; text-align: left;">
             🖼️ Растрова графіка →
           </a>
         </li>
         <li style="margin-bottom: 0.5rem;">
-          <a href="/theory/vector-graphics/" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="/lab-2/theory/vector-graphics/" class="btn btn-outline" style="width: 100%; text-align: left;">
             📐 Векторна графіка →
           </a>
         </li>
         <li style="margin-bottom: 0.5rem;">
-          <a href="/theory/comparison/" class="btn btn-outline" style="width: 100%; text-align: left;">
+          <a href="/lab-2/theory/comparison/" class="btn btn-outline" style="width: 100%; text-align: left;">
             ⚖️ Порівняльний аналіз →
           </a>
         </li>
@@ -266,7 +266,7 @@ permalink: /theory/main-content/
         <h3 class="card-title">🎯 Практика</h3>
       </div>
       <p>Перейдіть до практичних завдань для закріплення матеріалу:</p>
-      <a href="../practice/beginner-tasks" class="btn btn-primary">
+      <a href="/lab-2/practice/beginner-tasks" class="btn btn-primary">
         Практичні завдання
       </a>
     </div>
