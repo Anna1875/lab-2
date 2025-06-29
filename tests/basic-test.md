@@ -25,7 +25,6 @@ permalink: /tests/basic-test/
   <!-- Питання 1 -->
   <div class="question" data-question="1">
     <div class="question-title">
-      <span class="question-number">Питання 1:</span>
       Яка графіка складається з пікселів?
     </div>
     <div class="answers">
@@ -51,7 +50,6 @@ permalink: /tests/basic-test/
   <!-- Питання 2 -->
   <div class="question" data-question="2">
     <div class="question-title">
-      <span class="question-number">Питання 2:</span>
       Що відбувається при збільшенні растрового зображення?
     </div>
     <div class="answers">
@@ -77,7 +75,6 @@ permalink: /tests/basic-test/
   <!-- Питання 3 -->
   <div class="question" data-question="3">
     <div class="question-title">
-      <span class="question-number">Питання 3:</span>
       Яка перевага векторної графіки?
     </div>
     <div class="answers">
@@ -103,7 +100,6 @@ permalink: /tests/basic-test/
   <!-- Питання 4 -->
   <div class="question" data-question="4">
     <div class="question-title">
-      <span class="question-number">Питання 4:</span>
       Що краще використовувати для створення логотипу?
     </div>
     <div class="answers">
@@ -129,7 +125,6 @@ permalink: /tests/basic-test/
   <!-- Питання 5 -->
   <div class="question" data-question="5">
     <div class="question-title">
-      <span class="question-number">Питання 5:</span>
       Який формат підтримує прозорість?
     </div>
     <div class="answers">
@@ -155,7 +150,6 @@ permalink: /tests/basic-test/
   <!-- Питання 6 -->
   <div class="question" data-question="6">
     <div class="question-title">
-      <span class="question-number">Питання 6:</span>
       Скільки пікселів у зображенні 800×600?
     </div>
     <div class="answers">
@@ -181,7 +175,6 @@ permalink: /tests/basic-test/
   <!-- Питання 7 -->
   <div class="question" data-question="7">
     <div class="question-title">
-      <span class="question-number">Питання 7:</span>
       SVG — це формат:
     </div>
     <div class="answers">
@@ -207,7 +200,6 @@ permalink: /tests/basic-test/
   <!-- Питання 8 -->
   <div class="question" data-question="8">
     <div class="question-title">
-      <span class="question-number">Питання 8:</span>
       Яка роздільна здатність потрібна для якісного друку?
     </div>
     <div class="answers">
@@ -233,7 +225,6 @@ permalink: /tests/basic-test/
   <!-- Питання 9 -->
   <div class="question" data-question="9">
     <div class="question-title">
-      <span class="question-number">Питання 9:</span>
       Яка програма призначена для роботи з векторною графікою?
     </div>
     <div class="answers">
@@ -259,7 +250,6 @@ permalink: /tests/basic-test/
   <!-- Питання 10 -->
   <div class="question" data-question="10">
     <div class="question-title">
-      <span class="question-number">Питання 10:</span>
       Скільки кольорів може відображати 8-бітне зображення?
     </div>
     <div class="answers">
