@@ -434,7 +434,7 @@ permalink: /theory/comparison/
       <div class="card-header">
         <h3 class="card-title">🎯 Практика</h3>
       </div>
-      <a href="../practice/intermediate-tasks" class="btn btn-secondary">
+      <a href="/lab-2/practice/intermediate-tasks" class="btn btn-secondary">
         Завдання середнього рівня
       </a>
     </div>
