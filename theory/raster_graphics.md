@@ -425,7 +425,7 @@ permalink: /theory/raster-graphics/
   </div>
 </div>
 
-<script src="{{ '/scripts/interactive.js' | relative_url }}"></script>
+<script src="/lab-2/scripts/interactive.js"></script>
 
 <script>
 // Правильні відповіді для тесту розрахунків
