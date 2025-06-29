@@ -446,7 +446,7 @@ permalink: /theory/vector-graphics/
       <div class="card-header">
         <h3 class="card-title">⬅️ Попередній розділ</h3>
       </div>
-      <a href="/theory/raster-graphics/" class="btn btn-outline">
+      <a href="/lab-2/theory/raster-graphics/" class="btn btn-outline">
         Растрова графіка
       </a>
     </div>
@@ -455,7 +455,7 @@ permalink: /theory/vector-graphics/
       <div class="card-header">
         <h3 class="card-title">➡️ Наступний розділ</h3>
       </div>
-      <a href="/theory/comparison/" class="btn btn-primary">
+      <a href="/lab-2/theory/comparison/" class="btn btn-primary">
         Порівняльний аналіз
       </a>
     </div>
@@ -464,7 +464,7 @@ permalink: /theory/vector-graphics/
       <div class="card-header">
         <h3 class="card-title">🎯 Практика</h3>
       </div>
-      <a href="../practice/beginner-tasks" class="btn btn-secondary">
+      <a href="/lab-2/practice/beginner-tasks" class="btn btn-secondary">
         Практичні завдання
       </a>
     </div>
